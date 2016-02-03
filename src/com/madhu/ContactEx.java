@@ -3,6 +3,8 @@ package com.madhu;
 public class ContactEx {
 	public static void main(String[] args) {
 		
+		//This is sample comment
+		
 		Contact c1= new Contact();
 		c1.setId(111);
 		c1.setName("Madhusudhan");
